@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Guilherme%20Cardozo&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Desenvolvedor%20Fullstack%20%C2%B7%20Java%20%C2%B7%20Flutter%20%C2%B7%20React&descAlignY=60&descSize=18" alt="Header" />
 
 <a href="https://github.com/Guilherme-Cardozo-688">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=5CE1E6&center=true&vCenter=true&width=620&lines=Backend+com+Java+%2B+Spring+Boot;Apps+mobile+com+Flutter;Interfaces+web+com+React+%2F+Next.js;Rastreamento%2C+IoT+e+sistemas+embarcados" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=5CE1E6&center=true&vCenter=true&width=620&lines=Backend+com+Java+%2B+Spring+Boot;Apps+mobile+com+Flutter;Interfaces+web+com+React+%2F+Next.js;Mapas%2C+IoT+e+sistemas+embarcados" alt="Typing SVG" />
 </a>
 
 <br/>
