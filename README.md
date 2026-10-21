@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Guilherme%20Cardozo&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Desenvolvedor%20Pleno%20Fullstack%20%C2%B7%20Java%20%C2%B7%20Flutter%20%C2%B7%20React&descAlignY=60&descSize=18" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Guilherme%20Cardozo&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Desenvolvedor%20Fullstack%20%C2%B7%20Java%20%C2%B7%20Flutter%20%C2%B7%20React&descAlignY=60&descSize=18" alt="Header" />
 
 <a href="https://github.com/Guilherme-Cardozo-688">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=5CE1E6&center=true&vCenter=true&width=620&lines=Backend+com+Java+%2B+Spring+Boot;Apps+mobile+com+Flutter;Interfaces+web+com+React+%2F+Next.js;Rastreamento%2C+IoT+e+sistemas+embarcados" alt="Typing SVG" />
@@ -17,12 +17,11 @@
 
 ## Sobre mim
 
-- Desenvolvedor pleno, com base em **Java** e **Spring Boot**: APIs REST, JWT, migrações com Flyway e testes com Testcontainers
-- Arquitetura de **microsserviços** (rotas, rastreamento, presença e ocorrências), com mensageria, cache e observabilidade
-- **Mobile com Flutter** (Riverpod) e **web com React / Next.js**, do banco de dados à tela
-- **Rastreamento em tempo real**, otimização de rotas, mapas e geofencing em produtos de transporte
-- **IoT e sistemas embarcados** (ESP32, Arduino) integrados a APIs e Firebase
-- Infra enxuta e reproduzível: **Docker**, CI com GitHub Actions, deploy e monitoramento com Prometheus e Grafana
+- Base em **Java** e **Spring Boot**: APIs REST, autenticação com JWT, migrações e testes automatizados
+- Arquitetura de **microsserviços**, com mensageria, cache e observabilidade
+- **Mobile com Flutter** e **web com React / Next.js**, do banco de dados à tela
+- Interesse em **mapas, tempo real** e **IoT e sistemas embarcados** (ESP32, Arduino)
+- Infra enxuta e reproduzível: **Docker**, CI/CD e monitoramento
 
 ## Stack
 
@@ -85,7 +84,7 @@
 | [**projeto-itaipu-mobile**](https://github.com/Guilherme-Cardozo-688/projeto-itaipu-mobile) | App mobile do projeto Itaipu | `Dart` `Flutter` |
 | [**agendamento-grape**](https://github.com/Guilherme-Cardozo-688/agendamento-grape) | Sistema de agendamento | `PHP` |
 
-> Boa parte do que faço no dia a dia (plataforma de transporte com app, API e painel de rastreamento ao vivo, além de sistemas de gestão e portais) está em repositórios privados.
+> Boa parte do que faço no dia a dia está em repositórios privados.
 
 ## Estatísticas
 
